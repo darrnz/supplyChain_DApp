@@ -194,7 +194,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 1557,
+                        "referencedDeclaration": 1559,
                         "src": "150:3:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -280,7 +280,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 1557,
+                        "referencedDeclaration": 1559,
                         "src": "201:3:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -900,7 +900,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 1557,
+                                  "referencedDeclaration": 1559,
                                   "type": "msg",
                                   "value": "msg"
                                 },
@@ -991,7 +991,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 1557,
+                                  "referencedDeclaration": 1559,
                                   "type": "msg",
                                   "value": "msg"
                                 },
@@ -1466,9 +1466,17 @@
     "name": "solc",
     "version": "0.4.26+commit.4563c3fc.Emscripten.clang"
   },
-  "networks": {},
+  "networks": {
+    "4": {
+      "events": {},
+      "links": {},
+      "address": "0xc3E0c58cc67e40E623257FB927747F19c37fE849",
+      "transactionHash": "0x950a0e3ffae1a1b8384ac9790fc94f53d021cc2763b58cfb287b3d72d6178dc0"
+    }
+  },
   "schemaVersion": "3.4.1",
-  "updatedAt": "2021-05-25T06:12:32.647Z",
+  "updatedAt": "2021-05-26T00:08:43.047Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
