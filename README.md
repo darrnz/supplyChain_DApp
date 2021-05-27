@@ -8,10 +8,10 @@ Web3.js: v1.3.6
 dotenv: ^10.0.0
 truffle-hdwallet-provider: ^1.0.17
 
-##Run the project
+## Run the project
 npm run dev
 
-##Blockchain Info
+## Blockchain Info
 Contract address: 0x46d4180DaD39554FD11C7C63dF7aa1e04DA62C77 
 Wallet Address: 0x88d4738260B73b5572549AeB6e349bCD95C18D20
 Tx Hash: 0x099fdd4019fd7d22065a3b48ade326f40e79f028e81b0d060c651b0a7f2b84eb
