@@ -1,8 +1,8 @@
 const HDWalletProvider = require("truffle-hdwallet-provider");
-const infuraKey = 'fb92425241dd462590f505fc0096ecbe' //process.env.INFURA_KEY;
-const dotenv = require('dotenv')
+const infuraKey = process.env.INFURA_KEY;
+const dotenv = require('dotenv').config()
 const fs = require('fs');
-const mnemonic = "smile direct blade legal coil domain furnace floor win scale final wire";
+const mnemonic = process.env.MNEMONIC
 //0x46d4180DaD39554FD11C7C63dF7aa1e04DA62C77 contratac
 module.exports = {
   networks: {

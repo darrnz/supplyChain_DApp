@@ -18,7 +18,6 @@
   "description": "",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "truffle-hdwallet-provider": "^1.0.17",
-    "web3": "^1.3.6"
+    "truffle-hdwallet-provider": "^1.0.17"
   }
 }
